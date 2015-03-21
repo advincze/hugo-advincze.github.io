@@ -1,0 +1,11 @@
+baseurl : http://advincze.github.io/
+languageCode : "en-us"
+title : "Advincze's blog"
+theme : "hugo-incorporated"
+params:
+  inc:
+    title: "Hugo Incorporated"
+    subtitle: "Modern Hugo based blog for companies"
+    cover_image: "Category_computers.jpg"
+    logo: "dickbutt.jpg"
+    about_link:   http://yo.yo.yo/about/
