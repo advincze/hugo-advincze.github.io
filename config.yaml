@@ -1,11 +1,42 @@
 baseurl : http://advincze.github.io/
 languageCode : "en-us"
-title : "Advincze's blog"
-theme : "hugo-incorporated"
+title: "adams code foo"
+author: "advincze"
+# theme: "aglaus"
+#theme: "beg"
+# theme: "casper"
+# theme: "herring-cove"
+#theme: "html5"
+#theme: "hugo-base-theme"
+#theme: "hugo-bootswatch"
+# theme: "hugo-incorporated" # good
+# theme: "hugo-theme-shiori"
+# theme: "hugo-uno"
+# theme: "hugoscroll"
+# theme: "hurock"
+# theme: "hyde"
+# theme: "hyde-x"
+# theme: "journal"
+# theme: "landing-page-hugo"
+# theme: "lanyon"
+# theme: "liquorice" # good
+# theme: "nofancy" 
+#theme: "persona" # ok, does not work yet
+theme: "pixyll" # ok, simple
+# theme: "poopshow"
+# theme: "purehugo"
+# theme: "redlounge"
+# theme: "simple-a"
+# theme: "stou-dk-theme"
+# theme: "tachyons"
+# theme: "tinyce"
+# theme: "twentyfourteen"
+# theme: "vienna"
+indexes:
+  tag: tags
 params:
-  inc:
-    title: "Hugo Incorporated"
-    subtitle: "Modern Hugo based blog for companies"
-    cover_image: "Category_computers.jpg"
-    logo: "dickbutt.jpg"
-    about_link:   http://yo.yo.yo/about/
+  # search_engine: true
+  google_analytics_id = "UA-61034122-1"
+  twitter_username = "advincze"
+  disqus_shortname = "advincze"
+  paginate = true
